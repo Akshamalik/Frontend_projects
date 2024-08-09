@@ -1,0 +1,6 @@
+tech stack-----
+html
+css
+js
+gsap cdn attached->js library to make moving animations
+futura font downloaded ->network->font->reload->double click to download
